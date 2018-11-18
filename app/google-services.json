@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "489351938063",
+    "firebase_url": "https://daiquiris-81d0e.firebaseio.com",
+    "project_id": "daiquiris-81d0e",
+    "storage_bucket": "daiquiris-81d0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489351938063:android:ee69f0538ecc7100",
+        "android_client_info": {
+          "package_name": "com.extricks.daiquiris"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489351938063-jslebdh5blk7vsdt5kp24mkuminibif2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.extricks.daiquiris",
+            "certificate_hash": "14ef326f8ab6cc346a48986360be626283ddcedd"
+          }
+        },
+        {
+          "client_id": "489351938063-lj2esi3h4pcr2b698b2p3imjct760cn0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU-zt9r9wi0JKEC3HnhKa3DrNdkITI5_0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489351938063-lj2esi3h4pcr2b698b2p3imjct760cn0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
